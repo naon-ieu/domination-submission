@@ -1,0 +1,72 @@
+{
+  "ranks": [
+    {
+      "id": "slave",
+      "name": "Slave",
+      "classes": [
+        {
+          "id": "battle_slave",
+          "name": "Battle Slave"
+        },
+        {
+          "id": "bondage_slave",
+          "name": "Bondage Slave"
+        }
+      ]
+    },
+    {
+      "id": "outcast",
+      "name": "Outcast",
+      "classes": [
+        {
+          "id": "bandit",
+          "name": "Bandit"
+        },
+        {
+          "id": "criminal",
+          "name": "Criminal"
+        }
+      ]
+    },
+    {
+      "id": "commoner",
+      "name": "Commoner",
+      "classes": [
+        {
+          "id": "merchant",
+          "name": "Merchant"
+        },
+        {
+          "id": "soldier",
+          "name": "Soldier"
+        },
+        {
+          "id": "priest",
+          "name": "Priest"
+        },
+        {
+          "id": "peasant",
+          "name": "Peasant"
+        }
+      ]
+    },
+    {
+      "id": "elite",
+      "name": "Elite",
+      "classes": [
+        {
+          "id": "mage",
+          "name": "Mage"
+        },
+        {
+          "id": "knight",
+          "name": "Knight"
+        },
+        {
+          "id": "noble",
+          "name": "Noble"
+        }
+      ]
+    }
+  ]
+}
